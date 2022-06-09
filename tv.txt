@@ -1,0 +1,16 @@
+CCTV-1 综合,http://2i784725h7.zicp.vip:8888/rtp/239.253.254.1:8000
+山东卫视,http://2i784725h7.zicp.vip:8888/rtp/239.253.254.2:8000
+CCTV-2 财经,http://2i784725h7.zicp.vip:8888/rtp/239.253.254.3:8000
+CCTV-3 综艺,http://2i784725h7.zicp.vip:8888/rtp/239.253.254.4:8000
+CCTV-4 国际,http://2i784725h7.zicp.vip:8888/rtp/239.253.254.5:8000
+CCTV-5 体育,http://2i784725h7.zicp.vip:8888/rtp/239.253.254.6:8000
+CCTV-6 电影,http://2i784725h7.zicp.vip:8888/rtp/239.253.254.7:8000
+CCTV-7 军事,http://2i784725h7.zicp.vip:8888/rtp/239.253.254.8:8000
+CCTV-8 电视剧,http://2i784725h7.zicp.vip:8888/rtp/239.253.254.9:8000
+CCTV-9 纪录,http://2i784725h7.zicp.vip:8888/rtp/239.253.254.10:8000
+CCTV-10 科教,http://2i784725h7.zicp.vip:8888/rtp/239.253.254.11:8000
+CCTV-11 戏曲,http://2i784725h7.zicp.vip:8888/rtp/239.253.254.12:8000
+CCTV-12 社会与法,http://2i784725h7.zicp.vip:8888/rtp/239.253.254.13:8000
+CCTV-13 新闻,http://2i784725h7.zicp.vip:8888/rtp/239.253.254.14:8000
+CCTV-14 少儿,http://2i784725h7.zicp.vip:8888/rtp/239.253.254.15:8000
+CCTV-15 音乐,http://2i784725h7.zicp.vip:8888/rtp/239.253.254.16:8000
